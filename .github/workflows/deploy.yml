@@ -1,7 +1,7 @@
-
+---
 name: CI-CD RESTCONF
 
-on:
+'on':
   pull_request:
     branches: [main]
   push:

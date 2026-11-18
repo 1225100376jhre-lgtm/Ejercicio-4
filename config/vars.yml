@@ -1,8 +1,7 @@
-
+---
 # U4ACT04 - DevOps con RESTCONF
 # Autor: JAIRO ROSAS ENRIQUEZ
 # Fase PLAN/CODE
-
 host: 10.10.20.48
 port: 443
 
